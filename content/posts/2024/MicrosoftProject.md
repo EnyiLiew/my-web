@@ -12,5 +12,5 @@ tags:
     author: Marko Blazevic / Pexels
     url: https://www.pexels.com/photo/cute-gray-kitten-standing-on-a-wooden-flooring-774731/
 ---
-![image](c:\Users\Liew Enyi\OneDrive\Pictures\Screenshots\Screenshot 2023-03-28 010315.png)
+
 [clickme](https://github.com/EnyiLiew/my-web)
