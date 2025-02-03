@@ -9,7 +9,7 @@ module.exports = {
   disclaimer: 'Disclaimer',
   keep_reading: 'Keep reading on',
   originally_published: 'Originally published on',
-  by: 'by',
+  by: '',
   license: 'License',
   published: 'Published',
   page: 'Page',
