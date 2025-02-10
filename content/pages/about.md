@@ -5,7 +5,7 @@ eleventyNavigation:
   key: About
   order: 1
 disclaimer:
-  text: This is a text disclaimer. It will be visible on the page.
+  text: Im not a cat.
 ---
 
 <img src="/images/kitty.jpg" alt="" class="myphoto" />
